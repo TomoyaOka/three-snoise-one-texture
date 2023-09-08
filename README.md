@@ -1,3 +1,3 @@
-# DistortionScroll(FragmentShader)
-![image](https://github.com/TomoyaOka/distortionScroll/assets/73698770/99f32e90-ac49-465a-ac74-02c9ae675eac)
+# snoiseTexture(FragmentShader)
+![image](https://github.com/TomoyaOka/three-snoise-one-texture/assets/73698770/c1856b89-7b07-445a-abba-5e47f6547c1c)
 
